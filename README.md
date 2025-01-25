@@ -1,5 +1,3 @@
-# Generate a README.md file
-readme_content = """
 # Credit Card Fraud Detection with Sampling Techniques
 
 ## Overview
